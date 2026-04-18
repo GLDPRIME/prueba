@@ -6,8 +6,8 @@ const DAYS_SHORT = ['Do','Lu','Ma','Mi','Ju','Vi','Sá']
 
 // ── CONFIGURACIÓN ─────────────────────────────────────────────────────────────
 const CONFIG = {
-  hostName:     'Glen Barber',
-  hostInitials: 'GB',
+  hostName:     'Velvet',
+  hostInitials: 'VE',
   tagline:      'Barbería profesional',
   address:      'Diagonal Paraguay 291, Santiago',
   hours:        'Lun–Sáb · 9:00 – 21:00',
