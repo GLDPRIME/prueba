@@ -8,8 +8,8 @@ const DAYS_SHORT = ['Do','Lu','Ma','Mi','Ju','Vi','Sá']
 const CONFIG = {
   hostName:     'Velvet',
   hostInitials: 'VE',
-  tagline:      'Barbería profesional',
-  address:      'Diagonal Paraguay 291, Santiago',
+  tagline:      'Empresa de marketing',
+  address:      'Santa Elena 84, Santiago',
   hours:        'Lun–Sáb · 9:00 – 21:00',
   accentColor:  '#1a1a2e',
   profesionales: [
